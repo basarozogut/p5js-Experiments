@@ -1,2 +1,2 @@
-# p5js-Experiments
-Some p5js experiments.
+# p5.js Experiments
+Some p5.js experiments.
